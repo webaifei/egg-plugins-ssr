@@ -1,5 +1,5 @@
 {
-  "name": "@ok/koa-locales",
+  "name": "@webaifei/koa-locales",
   "version": "1.12.11",
   "description": "koa locales, i18n solution for koa",
   "main": "index.js",
@@ -63,5 +63,5 @@
   },
   "author": "fengmk2 <fengmk2@gmail.com> (https://fengmk2.com)",
   "license": "MIT",
-  "gitHead": "99169527725e77eb62831448ca364b76d93746b7"
+  "gitHead": "d34ca298a96f5a0c055977584c42348c7b604eef"
 }
