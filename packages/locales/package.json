@@ -59,5 +59,6 @@
     "version": "4, 6, 8, 10, 12"
   },
   "author": "fengmk2 <fengmk2@gmail.com> (https://fengmk2.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "cda7cc6b7f90a9a632bf9dfeeb6cbb9b6cc6e1f6"
 }
