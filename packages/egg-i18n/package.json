@@ -1,6 +1,6 @@
 {
   "name": "@ok/egg-i18n",
-  "version": "2.1.11",
+  "version": "2.1.12",
   "eggPlugin": {
     "name": "i18n",
     "dependencies": [
@@ -45,7 +45,7 @@
     "version": "8, 10, 12"
   },
   "dependencies": {
-    "@ok/koa-locales": "^1.12.10",
+    "@ok/koa-locales": "^1.12.11",
     "debug": "^3.1.0"
   },
   "devDependencies": {
