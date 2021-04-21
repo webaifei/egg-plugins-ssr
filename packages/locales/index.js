@@ -16,7 +16,7 @@ const yaml = require('js-yaml');
  */
 const getLocaleFromPath =(ctx)=> {
   console.log(ctx.path);
-  const locale = ctx.path.split('/')[0];
+  const locale = ctx.path.split('/')[1];
   return locale;
 }
 const DEFAULT_OPTIONS = {
