@@ -1,6 +1,6 @@
 {
   "name": "@webaifei/koa-locales",
-  "version": "1.12.12",
+  "version": "1.12.13",
   "description": "koa locales, i18n solution for koa",
   "main": "index.js",
   "files": [

@@ -1,6 +1,6 @@
 {
   "name": "@webaifei/egg-i18n",
-  "version": "2.1.13",
+  "version": "2.1.14",
   "eggPlugin": {
     "name": "i18n",
     "dependencies": [
@@ -45,7 +45,7 @@
     "version": "8, 10, 12"
   },
   "dependencies": {
-    "@webaifei/koa-locales": "^1.12.12",
+    "@webaifei/koa-locales": "^1.12.13",
     "debug": "^3.1.0"
   },
   "devDependencies": {
